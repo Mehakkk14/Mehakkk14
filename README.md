@@ -1,18 +1,8 @@
 <h1 align="center">Hi there 👋, I'm Mahak Rastogi</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?
-    font=Fira+Code
-    &size=22
-    &pause=1000
-    &color=6AE3FF
-    &center=true
-    &vCenter=true
-    &width=520
-    &lines=Blockchain+Developer;
-    Full-Stack+Developer;
-    AI+Developer" 
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6AE3FF&center=true&vCenter=true&width=520&lines=Blockchain+Developer;Full-Stack+Developer;AI+Developer" />
 </p>
+
 
 
 <p align="center">
